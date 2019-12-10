@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://www.jarrettchristianflierl.com"
 languageCode = "en-us"
 title = "JCF | Jarrett Christian Flierl"
 theme = "liva-hugo"

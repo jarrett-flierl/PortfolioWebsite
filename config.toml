@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = ""
 languageCode = "en-us"
 title = "JCF | Jarrett Christian Flierl"
 theme = "liva-hugo"

@@ -4,7 +4,7 @@ date: 2019-12-10T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "static/uploads/jarrett-christian-flierl-santa-monica.png"
+image: "uploads/jarrett-christian-flierl-santa-monica.png"
 
 # meta description
 description: "this is meta description"
@@ -23,9 +23,9 @@ tags:
 type: "post"
 ---
 
-# Heading 1
+# A Day in Santa Monica
 ## Heading 2
-### Heading 3
+### By Jarrett Christian Flierl
 #### Heading 4
 ##### Heading 5
 ###### Heading 6

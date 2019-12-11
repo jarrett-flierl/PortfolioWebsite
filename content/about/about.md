@@ -13,7 +13,11 @@ description: "this is meta description"
 type : "about"
 ---
 
- Born in Florida, currently residing in Santa Monica CA. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
+ Writing about myself is tough! Not because there isn't a MILLION things I could say to describe myself, but more-so "Where do I begin?"
+
+I believe that everyone has multiple versions of themselves depending on who they might come in contact or communicate with.
+
+
 
 consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
 

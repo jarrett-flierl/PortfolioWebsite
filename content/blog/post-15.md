@@ -11,12 +11,12 @@ description: "this is meta description"
 
 # taxonomies
 categories:
-  - "Go Language"
+  - "Lifestyle"
 tags:
   - "Photos"
-  - "Game"
-  - "HTML"
-  - "Python"
+  - "Santa Monica"
+  - "Traffic"
+  - "Love"
   - "New"
 
 # post type

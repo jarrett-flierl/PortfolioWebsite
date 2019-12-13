@@ -1,6 +1,6 @@
 ---
-title: "Testing Post Type FEATURED"
-date: 2019-12-10T10:07:47+06:00
+title: "a trip to kiff kafe"
+date: 2019-12-12T10:07:47+06:00
 draft: false
 
 # post thumb

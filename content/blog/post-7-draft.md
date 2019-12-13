@@ -1,21 +1,21 @@
 ---
 title: "How To Use Checklists To Improve Your UX"
 date: 2019-10-29T10:07:47+06:00
-draft: false
+draft: true
 
 # post thumb
-image: "images/featured-post/post-2.jpg"
+image: "images/post/post-4.jpg"
 
 # meta description
 description: "this is meta description"
 
 # taxonomies
 categories:
-  - "HTML & CSS"
+  - "Go Language"
 tags:
   - "Photos"
   - "Game"
-  - "React"
+  - "HTML"
   - "Python"
   - "New"
 
@@ -82,7 +82,6 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime 
 3. List item
 4. List item
 5. List item
-
 
 ##### Unordered List
 

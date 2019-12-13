@@ -11,12 +11,12 @@ description: "this is meta description"
 
 # taxonomies
 categories:
-  - "Android And Gaming"
+  - "Tech"
 tags:
-  - "Photos"
+  - "Review"
   - "Game"
-  - "React"
-  - "Python"
+  - "Gadgets"
+  - "Consumer"
   - "New"
 
 # post type

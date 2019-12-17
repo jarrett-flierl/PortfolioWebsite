@@ -56,6 +56,10 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 [Jarrett Christian Flierl's Twitter](https://twitter.com/jarrett_flierl "Jarrett Christian Flierl's Photobucket")
 
+[Jarrett Christian Flierl's Twitter](https://jarrettflierl.livejournal.com/ "Jarrett Christian Flierl's Live Journal")
+
+[Jarrett Christian Flierl's Soundcloud](https://soundcloud.com/user-131670510/jarrett-christian-flierl-jazz "Jarrett Christian Flierl's Soundcloud")
+
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
 [I'm a relative reference to a repository file](../blob/master/LICENSE)

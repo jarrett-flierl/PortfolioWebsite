@@ -1,7 +1,7 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
-draft: true
+title: "Links to Jarrett Christian Flierl's Social Media"
+date: 2019-12-17T10:07:47+06:00
+draft: false
 
 # post thumb
 image: "images/featured-post/post-2.jpg"
@@ -45,9 +45,16 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 <hr>
 
 ##### Link
-[I'm an inline-style link](https://www.google.com)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[Jarrett Christian Flierl's Tumblr](https://www.tumblr.com/blog/jarrett-christian-flierl "Jarrett Christian Flierl's Tumblr")
+
+[Jarrett Christian Flierl's Blogger](https://jarrett-christian-flierl.blogspot.com/ "Jarrett Christian Flierl's Blogger")
+
+[Jarrett Christian Flierl's Myspace](https://myspace.com/jarrett_christian_flierl "Jarrett Christian Flierl's Myspace")
+
+[Jarrett Christian Flierl's Photobucket](https://s1380.photobucket.com/user/Jarrett-Christian-Flierl/profile/ "Jarrett Christian Flierl's Photobucket")
+
+[Jarrett Christian Flierl's Twitter](https://twitter.com/jarrett_flierl "Jarrett Christian Flierl's Photobucket")
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 

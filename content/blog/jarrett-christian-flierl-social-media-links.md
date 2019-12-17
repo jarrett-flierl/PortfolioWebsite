@@ -40,7 +40,7 @@ type: "post"
 
 [Jarrett Christian Flierl's Twitter](https://twitter.com/jarrett_flierl "Jarrett Christian Flierl's Photobucket")
 
-[Jarrett Christian Flierl's Twitter](https://jarrettflierl.livejournal.com/ "Jarrett Christian Flierl's Live Journal")
+[Jarrett Christian Flierl's Live Journal](https://jarrettflierl.livejournal.com/ "Jarrett Christian Flierl's Live Journal")
 
 [Jarrett Christian Flierl's Soundcloud](https://soundcloud.com/user-131670510/jarrett-christian-flierl-jazz "Jarrett Christian Flierl's Soundcloud")
 
